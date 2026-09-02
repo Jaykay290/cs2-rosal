@@ -41,7 +41,6 @@ The distance between the two points is: 7.07
 
 ## Author
 Name: Jalb Kyan Espulgar
-Section: 8-Rosal
-Name: Juan Dela Cruz
 
-Section: 8-Sampaguita
+Section: 8-Rosal
+
